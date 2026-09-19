@@ -111,7 +111,7 @@ Développement d'une application web de gestion des interventions techniques et 
 
 ## 📫 Contact
 
-📧 **Email:** salmaboussami3@gmail.com
+📧 **Email:** salmaboussami82@gmail.com
 
 📍 **Khouribga, Maroc**
 
